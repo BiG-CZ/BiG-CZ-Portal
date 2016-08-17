@@ -22,4 +22,4 @@ Base url: http://data.nanoos.org/files/cz/mapoverlays/
   - Sample url: http://data.nanoos.org/files/cz/mapoverlays/EVI_1.png
 - Geographical domain: "Lower North America" (bottom Canada through Central America and theCaribbean islands)
 - Geographical extent and cell resolution: TO BE ADDED.
-- Much of the remaining information (to be fleshed out here) is found in these json configuration files: http://data.nanoos.org/files/cz/mapoverlays/evi_climatology.json
+- Much of the remaining information (to be fleshed out here) is found in this json configuration file: http://data.nanoos.org/files/cz/mapoverlays/evi_climatology.json
