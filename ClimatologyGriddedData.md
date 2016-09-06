@@ -2,6 +2,10 @@
 
 Currently we have monthly climatologies available (long-term monthly means, across all years).
 
+Some clarifications:
+- Currently we have long-term monthly climatologies (means or totals across years). Anthony and I agreed that was a good place to start. We could probably also create annual means or totals (across all years, per year, or both) fairly easily, say within the next 3 weeks; we'd first have to decide if that's a priority.
+- In the meantime, we already have png's we can share right away, intended for tiling. With a bit more effort, but probably quite easily, we could also provide geotiff's with actual data values to be used for analysis. We are also working on cleaning up the Python code to share it via github; that will take us another couple of weeks.
+
 ## Full-resolution, styled png's intended for tiling (or use as is)
 
 Base url: http://data.nanoos.org/files/cz/mapoverlays/
