@@ -3,8 +3,8 @@
 Currently we have monthly climatologies available (long-term monthly means, across all years).
 
 Some clarifications:
-- Currently we have long-term monthly climatologies (means or totals across years). Anthony and I agreed that was a good place to start. We could probably also create annual means or totals (across all years, per year, or both) fairly easily, say within the next 3 weeks; we'd first have to decide if that's a priority.
-- In the meantime, we already have png's we can share right away, intended for tiling. With a bit more effort, but probably quite easily, we could also provide geotiff's with actual data values to be used for analysis. We are also working on cleaning up the Python code to share it via github; that will take us another couple of weeks.
+- Currently we have long-term monthly climatologies (means or totals across years). Anthony and I agreed that was a good place to start. We could probably also create annual means or totals (across all years, per year, or both) fairly easily, but we'd first have to decide if that's a priority.
+- In the meantime, we already have png's we can share right away, intended for tiling. With a bit more effort, but probably quite easily, we could also provide geotiff's with actual data values to be used for analysis. We are also working on cleaning up the Python code to share it via github.
 
 ## Full-resolution, styled png's intended for tiling (or use as is)
 
@@ -28,5 +28,5 @@ Base url: http://data.nanoos.org/files/cz/mapoverlays/
   - Sample url: http://data.nanoos.org/files/cz/mapoverlays/EVI_1.png
 - Geographical domain: "Lower North America" (bottom Canada through Central America and theCaribbean islands)
 - Geographical extent: [-127.8294048826629989, 5.1830409679864857, -59.0561278820333229, 49.9999999955067977]
-- - Cell resolution: 0.04 degrees, or approx. 1km
+- Cell resolution: 0.04 degrees, or approx. 1km
 - Much of the remaining information (to be fleshed out here) is found in this json configuration file: http://data.nanoos.org/files/cz/mapoverlays/evi_climatology.json
