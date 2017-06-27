@@ -16,10 +16,10 @@ Base url: http://data.nanoos.org/files/cz/mapoverlays/
   - Examples: `ppt_01.png`, `tmean_12.png`
   - Sample url: http://data.nanoos.org/files/cz/mapoverlays/ppt_01.png
 - Geographical domain: Continental US (lower 48)
-- Geographical extent and cell resolution: [-125.0208333333334991, 24.0575000000025021, -66.4608333333334969, 49.9375000000025011], Pixel Size: 0.04 or 4km
+- Geographical extent: [-125.0208333333334991, 24.0575000000025021, -66.4608333333334969, 49.9375000000025011]
+- Cell resolution: 0.04 degrees, or approx. 4km
 - Much of the remaining information (to be fleshed out here) is found in these json configuration files: http://data.nanoos.org/files/cz/mapoverlays/ppt_climatology.json, http://data.nanoos.org/files/cz/mapoverlays/tmean_climatology.json
-
-[Official Documentation](http://prism.nacse.org/documents/PRISM_datasets.pdf)
+- PRISM [project web site](http://prism.nacse.org) and [official dataset documentation](http://prism.nacse.org/documents/PRISM_datasets.pdf)
 
 ### 2. MODIS Enhanced Vegetation Index (EVI) [MOD13A3]
 
@@ -27,5 +27,6 @@ Base url: http://data.nanoos.org/files/cz/mapoverlays/
   - Examples: `EVI_1.png`, `EVI_12.png`
   - Sample url: http://data.nanoos.org/files/cz/mapoverlays/EVI_1.png
 - Geographical domain: "Lower North America" (bottom Canada through Central America and theCaribbean islands)
-- Geographical extent and cell resolution: [-127.8294048826629989, 5.1830409679864857, -59.0561278820333229, 49.9999999955067977], Pixel Size: 0.01 or 1km
+- Geographical extent: [-127.8294048826629989, 5.1830409679864857, -59.0561278820333229, 49.9999999955067977]
+- - Cell resolution: 0.04 degrees, or approx. 1km
 - Much of the remaining information (to be fleshed out here) is found in this json configuration file: http://data.nanoos.org/files/cz/mapoverlays/evi_climatology.json
